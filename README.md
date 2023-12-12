@@ -1,2 +1,2 @@
 # React-2023
-Learning_React
+This project is to learn React js fro Hitesh chowdary youtube channel
